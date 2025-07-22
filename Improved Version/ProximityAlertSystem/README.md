@@ -66,8 +66,8 @@ This advanced version of the proximity alert system integrates an LCD display, a
      - VCC to Arduino 5V
      - GND to Arduino GND
    - Connect I2C LCD:
-     - SDA to Arduino A4
-     - SCL to Arduino A5
+     - SDA to Arduino SDA Pin/A4
+     - SCL to Arduino SCL Pin/A5
      - VCC to Arduino 5V
      - GND to Arduino GND
 2. **Software**:
